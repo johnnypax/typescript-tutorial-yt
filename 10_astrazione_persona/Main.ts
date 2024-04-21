@@ -4,4 +4,4 @@ import Studente from "./classes/Studente";
 
 let stu = new Studente();
 let doc = new Docente();
-let per = new Persona();
+// let per = new Persona(); //Impossibile
